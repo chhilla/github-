@@ -32,3 +32,10 @@ How can I see the history of my timeline?
 Use $ git log to keep track of your changes.
 Use $git checkout id of the change. to switch between the commits.
 
+connect local macine to github
+1. create a ne repository, without choosing the readme file.
+2. make one readme.txt file and .gitignore file (the files you want to ignore) in the same folder 
+3. In our case we choose a .png file, put the file name in .gitignore file.
+
+status: to check staging and commited files
+
