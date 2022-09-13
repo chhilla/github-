@@ -7,3 +7,9 @@ Github=timeline of time machine
 Where is the project developed?
 Im my computer, Develop Area (Folder where project is there).
 Local repositry (keep track of timeline), Staging Area (channel to connect D area and Local repos.)
+
+Meaningful changes
+1- why it was changed?
+2- How this address the issue?
+3- Effect due to change?
+4- Limaitation of the change
