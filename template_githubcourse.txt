@@ -13,3 +13,11 @@ Meaningful changes
 2- How this address the issue?
 3- Effect due to change?
 4- Limaitation of the change
+
+Which message suits best?
+Disambiguatethis project from Project X by stating the intended audience.
+
+why do we write a commit message?
+mesage help you or anyone elase that has access to it, to understand the context of changes and updates.
+
+What happens if we forgot the '-m' when committing a file?
