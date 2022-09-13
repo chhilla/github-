@@ -28,3 +28,7 @@ Tutorial for me.
 3- Commit with a message (as descriptive as possible) so that you can remeber what the changes were.
 4- You can use -message or editor to add commit.
 
+How can I see the history of my timeline?
+Use $ git log to keep track of your changes.
+Use $git checkout id of the change. to switch between the commits.
+
