@@ -39,3 +39,5 @@ connect local macine to github
 
 status: to check staging and commited files
 
+$ git clone <URL> (press the collaborator's code and get SSH)
+cd..=> go back the previous folder
