@@ -1,0 +1,9 @@
+github_course_20220913
+
+Github=Backup of your timeline
+Git=timemachine
+Github=timeline of time machine
+
+Where is the project developed?
+Im my computer, Develop Area (Folder where project is there).
+Local repositry (keep track of timeline), Staging Area (channel to connect D area and Local repos.)
