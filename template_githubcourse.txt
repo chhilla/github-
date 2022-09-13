@@ -21,3 +21,10 @@ why do we write a commit message?
 mesage help you or anyone elase that has access to it, to understand the context of changes and updates.
 
 What happens if we forgot the '-m' when committing a file?
+
+Tutorial for me.
+1- Make changes to your file.
+2- you can add or delete anything and then save.
+3- Commit with a message (as descriptive as possible) so that you can remeber what the changes were.
+4- You can use -message or editor to add commit.
+
